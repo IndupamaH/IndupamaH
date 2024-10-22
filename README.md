@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving complex problems using machine learning methods. 
 - 🌱 I’m currently learning Deep Learning using Pytorch.
 - 📫 You can reach me at indupamaiuh@gmail.com
-- 😄 Pronouns: SHe/Her
+- 😄 Pronouns: She/Her
 
 <!---
 IndupamaH/IndupamaH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
